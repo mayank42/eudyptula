@@ -8,4 +8,11 @@ Task1:
 -> Contains makefile along with kbuild file.  
 
 
+Task2:  
+
+-> Built kernel 4.9.0. Included the config and Makefile.
+-> Nvidia module didn't built and kept running into problems. Anyways the kernel was built enough to be bootable :p  
+
+
+
 
